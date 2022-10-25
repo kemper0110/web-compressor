@@ -1,0 +1,20 @@
+# ninja log v5
+25	3465	6883862908834003	CMakeFiles/web_cpp.dir/main.cpp.o	fda328d64d320318
+4475	10522	6883862978385959	web_cpp.js	bc2c75c69717d88a
+37	2171	6883862895883978	CMakeFiles/web_cpp.dir/BitWriter.cpp.o	5c2ca05ffadae91b
+18	2795	6883862902144005	CMakeFiles/web_cpp.dir/HuffmanCompressor.cpp.o	14b1a0578d741db8
+12	2621	6883862900253988	CMakeFiles/web_cpp.dir/HuffmanDecompressor.cpp.o	694de9fe2a4c39ec
+2171	4474	6883862918883976	CMakeFiles/web_cpp.dir/LZSSCompressor.cpp.o	db4d2b3e06856632
+29	3107	6883862905173971	CMakeFiles/web_cpp.dir/HuffmanTree.cpp.o	9302fdb24d224802
+2622	4053	6883862914783939	CMakeFiles/web_cpp.dir/BitReader.cpp.o	336d00d35b9c7a8a
+32	3118	6883862905323976	CMakeFiles/web_cpp.dir/LZSSDecompressor.cpp.o	2cf8d42f353b589f
+0	2764	6883864648460136	build.ninja	276b4172a822b255
+24	2116	6883864674350835	CMakeFiles/web_cpp.dir/BitWriter.cpp.o	be767ee157a09a08
+11	2543	6883864678610804	CMakeFiles/web_cpp.dir/HuffmanCompressor.cpp.o	5d1d1d0ad97f2505
+7	2663	6883864679800790	CMakeFiles/web_cpp.dir/HuffmanDecompressor.cpp.o	9e92655dcb6747c7
+20	3036	6883864683500831	CMakeFiles/web_cpp.dir/LZSSDecompressor.cpp.o	41ec2acd3283e1e4
+16	3177	6883864684980791	CMakeFiles/web_cpp.dir/main.cpp.o	ab3843d66f2bbaba
+28	3182	6883864685060804	CMakeFiles/web_cpp.dir/LZSSCompressor.cpp.o	1a39883c3d70f098
+2544	3958	6883864692860965	CMakeFiles/web_cpp.dir/BitReader.cpp.o	b56e2f623b79b755
+2117	4304	6883864696190767	CMakeFiles/web_cpp.dir/HuffmanTree.cpp.o	4ef3dfc82e38f356
+4304	6950	6883864722657468	web_cpp.js	1dcaebf97a7dc08
