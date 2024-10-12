@@ -1,0 +1,24 @@
+{
+  "name": "web-compressor",
+  "version": "1.0.0",
+  "description": "Проект для компиляции библиотеки сжатия на алгоритмах LZSS + Huffman в WebAssembly.",
+  "main": "cmake-build-release/web-compressor.js",
+  "typings": "cmake-build-release/web-compressor.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Danil Golosuev",
+  "license": "ISC",
+  "files": [
+    "cmake-build-release/web-compressor.js",
+    "cmake-build-release/web-compressor.d.ts",
+    "cmake-build-release/web-compressor.wasm",
+    "package.json",
+    "main.cpp",
+    "README.md"
+  ],
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
