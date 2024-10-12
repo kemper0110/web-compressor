@@ -2,5 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/assert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/circular_buffer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/concept_check" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/move" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/preprocessor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/static_assert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/throw_exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/boost/type_traits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compressor-cpp/gtest" vcs="Git" />
   </component>
 </project>
