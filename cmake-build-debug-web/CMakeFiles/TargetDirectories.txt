@@ -1,3 +1,0 @@
-C:/Users/danil/CLionProjects/web_cpp/cmake-build-debug-web/CMakeFiles/web_cpp.dir
-C:/Users/danil/CLionProjects/web_cpp/cmake-build-debug-web/CMakeFiles/edit_cache.dir
-C:/Users/danil/CLionProjects/web_cpp/cmake-build-debug-web/CMakeFiles/rebuild_cache.dir

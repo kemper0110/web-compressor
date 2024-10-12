@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -DCMAKE_C_COMPILER=C:/emscripten/emsdk/upstream/emscripten/emcc.bat -DCMAKE_CXX_COMPILER=C:/emscripten/emsdk/upstream/emscripten/em++.bat -DCMAKE_TOOLCHAIN_FILE=C:\emscripten\emsdk\upstream\emscripten\cmake\Modules\Platform\Emscripten.cmake -G Ninja -S C:\Users\danil\CLionProjects\web_cpp -B C:\Users\danil\CLionProjects\web_cpp\cmake-build-debug-web
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/danil/CLionProjects/web_cpp/cmake-build-debug-web
