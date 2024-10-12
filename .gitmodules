@@ -1,0 +1,3 @@
+[submodule "compressor-cpp"]
+	path = compressor-cpp
+	url = https://github.com/kemper0110/compressor-cpp.git

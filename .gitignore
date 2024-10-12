@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-web
+cmake-build-release-web
+*.iml
