@@ -1,11 +1,13 @@
 {
-  "name": "web-compressor",
-  "version": "1.0.0",
-  "description": "Проект для компиляции библиотеки сжатия на алгоритмах LZSS + Huffman в WebAssembly.",
+  "name": "@dardanda/web-compressor",
+  "version": "1.0.1",
+  "description": "WebAssembly библиотека для сжатия на алгоритмах LZSS и Huffman.",
   "main": "cmake-build-release/web-compressor.js",
   "typings": "cmake-build-release/web-compressor.d.ts",
+  "private": false,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access=public"
   },
   "keywords": [],
   "author": "Danil Golosuev",
