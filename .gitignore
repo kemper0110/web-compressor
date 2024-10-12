@@ -1,8 +1,8 @@
 .idea
-cmake-build-release
 *.iml
 node_modules
 web-compressor-*.tgz
+cmake-build-release/**
 !cmake-build-release/web-compressor.d.ts
 !cmake-build-release/web-compressor.js
 !cmake-build-release/web-compressor.wasm
